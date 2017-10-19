@@ -1,0 +1,10 @@
+.DS_Store
+*config.yml
+*phpdoc-cache-*
+*.properties
+*composer.phar
+*composer.lock
+*.sass-cache
+.remote-sync.json
+node_modules
+/vendor
